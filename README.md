@@ -2,7 +2,6 @@ In this example, i will create mongodb database with "posts" collection. then we
 
 
 <h2>Installation</h2>
-<hr>
 
 1) download and install mongoDB from: https://www.mongodb.com/try/download
 
